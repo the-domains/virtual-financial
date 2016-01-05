@@ -1,0 +1,28 @@
+name: Virtual Financial
+favicon: null
+layout_spectrum: 0.0176740565802902
+typography_spectrum: 0.016528282314538956
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9711746277753264
+  lightness: 0.02751490054652095
+  saturation: 0.9901903953868896
+  rhythmicContrast: 0.7239272859878838
+purpose: []
