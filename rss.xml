@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Virtual Financial]]></title>
         <description><![CDATA[Virtual Financial]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/virtual-financial/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 21:50:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jan 2016 03:25:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/virtual-financial/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Water Audios - Victory › Log In]]></title>
+            <description><![CDATA[<article><h1>Water Audios - Victory &rsaquo; Log In</h1><p></p></article>]]></description>
+            <link>http://wateraudios.com/victory/wp-login.php</link>
+            <guid isPermaLink="false">e8a0bf6e-ac70-4f9b-8a15-dd106cd9f412</guid>
+            <pubDate>Wed, 20 Jan 2016 03:24:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[If You Did Have to Work What Would You Do]]></title>
-            <description><![CDATA[<article><h1>If You Did Have to Work What Would You Do</h1><p>Consistent Life</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a9f87a2c2f06836f596d00cc85c8f0953efc363.jpg"></article>]]></description>
-            <link>undefinedif-you-did-have-to-work-what-would-you-do/index.html</link>
+            <description><![CDATA[<article><h1>If You Did Have to Work What Would You Do</h1><p>Success Comes From The Average Person Who is Hungry to Change His or  Her Life</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be1295ffa16faa80cc6a2b1cff261fc4059c1377.jpg"></article>]]></description>
+            <link>https://thegrid.ai/virtual-financial/if-you-did-have-to-work-what-would-you-do/index.html</link>
             <guid isPermaLink="false">ce8c119c-fc6f-4afc-bed8-6f46f94a8b8d</guid>
             <pubDate>Mon, 11 Jan 2016 21:49:58 GMT</pubDate>
         </item>
